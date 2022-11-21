@@ -1,0 +1,16 @@
+.app-wrapper {
+    position: relative;
+}
+
+.view-details{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    right: 50px;
+    background: #ee0606;
+    width: 80%;
+    height: 80vh;
+    border-radius: 5px; 
+}
